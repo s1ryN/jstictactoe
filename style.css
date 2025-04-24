@@ -1,0 +1,72 @@
+h1 {
+    margin-bottom: 20px;
+}
+.ui {
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    display: flex;
+}
+.cell {
+    border: none;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}  
+
+#b1{
+    border: 1px solid black;
+}
+
+#b2 {
+    border: 1px solid black;
+}
+
+#b3 {
+    border: 1px solid black;
+}
+
+#b4 {
+    border: 1px solid black;
+}
+    
+#b5 {
+    border: 1px solid black;
+}
+
+#b6 {
+    border: 1px solid black;
+}
+
+#b7 {
+    border: 1px solid black;
+}
+
+#b8 {
+    border: 1px solid black;
+}
+
+#b9 {
+    border: 1px solid black;
+}
+
+#but {
+    box-sizing: border-box;
+    width: 200px;
+    height: 40px;
+    margin-left: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#main {
+    text-align: left;
+}
